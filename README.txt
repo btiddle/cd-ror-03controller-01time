@@ -1,17 +1,14 @@
-|**Domain:** | **Coding Dojo (cd)**|
-|---------------:|:-------------------|
-|**Area of Study:** | **Ruby on Rails (ror)<br> Understanding Rails - Controllers and Views (03controller) **|
-|**Assignment:**| **Time Display (01time)**|
-|**Repository:** | **cd-ror-03controller-01time ** |
-|**Details:** | **cd-ror-03controller-01time ** |
++-----------------+-------------------------------------------------------------+
+| Domain:         | Coding Dojo (cd)                                            |
++-----------------+-------------------------------------------------------------+
+| Area of Study:  | Ruby on Rails (ror)                                         |
+|                 | Understanding Rails - Controllers and Views (03controller)  |
++-----------------+-------------------------------------------------------------+
+| Assignment:     | Time Display (01time)                                       |
++-----------------+-------------------------------------------------------------+
+| Repository:     | cd-ror-03controller-01time                                  |
++-----------------+-------------------------------------------------------------+
 
-
-
-
-
-<br>
-
-<pre><textarea>
 
 ===============
 #1: Start project
@@ -74,4 +71,3 @@ rails server
 
 http://localhost:3000/times/main
 
-</pre>
