@@ -1,9 +1,9 @@
-|                    |                                                                                      |
-|--------------------|--------------------------------------------------------------------------------------|
-| <b>Domain</b>      | [Coding Dojo](http://codingdojo.com) (cd)                                            |
-| <b>Topic</b>       | Ruby on Rails (ror) <br> Understanding Rails - Controllers and Views (03controller)  |
-| <b>Assignment</b>  | Time Display (01time)                                                                |
-| <b>Repository</b>  | cd-ror-03controller-01time                                                           |
+|     Project | Information                                                                          |
+|------------:|:-------------------------------------------------------------------------------------|
+| Domain:     | [Coding Dojo](http://codingdojo.com) (cd)                                            |
+| Topic:      | Ruby on Rails (ror) <br> Understanding Rails - Controllers and Views (03controller)  |
+| Assignment: | Time Display (01time)                                                                |
+| Repository: | cd-ror-03controller-01time                                                           |
 
 ~~~
 
